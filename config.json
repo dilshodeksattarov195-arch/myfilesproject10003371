@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userpave",
+        "uuid": 738249,
+        "checksum": "3k0wp8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
